@@ -1,6 +1,6 @@
-# Hi, I'm Lina (o^-^o)  
+### Hi, I'm Lina (o^-^o)  
 
-**Data & Math Enthusiast | Turning Numbers into Stories**  
+**Explore opportunities and possibilities**  
 
 - 🔭 **Currently**:  
   - Working as an intern.
@@ -14,4 +14,3 @@
   - Wechat: yoyok10ts
 - ⚡ **Fun Fact**:  
   - Loving cats and music.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina1o&layout=compact&theme=radical)](https://github.com/Lina1o)  
