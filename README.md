@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Lina (o^-^o)  
 
-<!--
-**Lina1o/Lina1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & Math Enthusiast | Turning Numbers into Stories**  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently**:  
+  - Working as an intern.
+  - Studying in Gdufs, majoring in Mathematics and Applied Mathematics in my final year. 
+- 🌱 **Learning**:  
+  - Advanced Python for ML (scikit-learn/TensorFlow).  
+  - SQL for large-scale data wrangling.  
+- 📫 **Reach me**:  
+  - Email: yoyok10ts@gmail.com  
+  - LinkedIn: linkedin.com/in/lina-yee-339323356
+  - Wechat: yoyok10ts
+- ⚡ **Fun Fact**:  
+  - Loving cats and music.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina1o&layout=compact&theme=radical)](https://github.com/Lina1o)  
